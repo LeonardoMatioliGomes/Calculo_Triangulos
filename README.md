@@ -1,4 +1,4 @@
-# Triangulo_funcao
+# Triangulo_Classe
 ## Versão: 1.0 
 ## Status do Projeto: :heavy_check_mark: Concluído
 
@@ -14,7 +14,7 @@
 ...
 
 ## Descrição do projeto
-Uma calculadora que compara a área de 2 triangulos, um usa "CLasse" e o outro usa "Função".
+Uma calculadora que compara a área de 2 triangulos e usa um Sistema de "Classe"
 
 ## Funcionalidades :gear:
 :heavy_check_mark: Calcula e compara a área de 2 triangulos
